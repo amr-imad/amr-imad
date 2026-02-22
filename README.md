@@ -1,6 +1,6 @@
 # Amr Abukharmeh
 
-Hi! I'm Amr, a **Product Engineer** specializing in backend systems, cloud infrastructure, and serverless pipelines.  
+Hi! I'm Amr, a **Product Engineer** focusing on backend systems, cloud infrastructure, and serverless pipelines.  
 🔭 Currently working as a Product Engineer at Germany Assist, building scalable backend systems and real-time features.  
 🌱 Currently learning DevOps and AWS Solutions Architect concepts.  
 ⚡ Fun fact: I love automating everything I touch 🚀  
